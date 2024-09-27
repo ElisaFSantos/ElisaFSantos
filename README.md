@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil ✨
 
 Meu nome é Elisa
-- Esto estudando no [Alura](https://www.alura.br)
+- Estou estudando no [Alura](https://www.alura.br)
 - Estou aprendendo a linguagem JavaScript
 - Estou utilizando o GitHub para me organizar e compartilhar meus projetos desenvolvidos
 
