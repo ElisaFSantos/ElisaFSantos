@@ -1,7 +1,8 @@
 ### Bem vindo ao meu perfil ✨
 
 Meu nome é Elisa
-- Estou estudando no [Alura](https://www.alura.br)
+- Ex estudante do [Alura](https://www.alura.br)
+- Atualmente estudado de Front End
 - Estou aprendendo a linguagem JavaScript
 - Estou utilizando o GitHub para me organizar e compartilhar meus projetos desenvolvidos
 
