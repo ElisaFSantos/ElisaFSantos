@@ -2,7 +2,8 @@
 
 Meu nome é Elisa
 - Ex estudante do [Alura](https://www.alura.br)
-- Atualmente estudado de Front End
+- Front End
+- Atualmente estudando Desenvolvimento de sistemas
 - Estou aprendendo a linguagem JavaScript
 - Estou utilizando o GitHub para me organizar e compartilhar meus projetos desenvolvidos
 
