@@ -4,7 +4,7 @@ Sou estudante de Desenvolvimento de Sistemas e estou construindo minha trajetór
 
 ### Formação 🎓
 - Front-End pelo Instituto Eurofarma.
-- Ex estudante do [Alura](https://www.alura.br
+- Ex estudante do [Alura](https://www.alura.br)
 
 Utilizando o GitHub para organizar e compartilhar meus projetos e aprendizados.
 
