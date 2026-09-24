@@ -2,9 +2,8 @@
 
 Meu nome é Elisa
 - Ex estudante do [Alura](https://www.alura.br)
-- Front End
 - Atualmente estudando Desenvolvimento de sistemas
-- Estou aprendendo a linguagem JavaScript
+- Estou aprendendo a linguagem JavaScript e Python 
 - Estou utilizando o GitHub para me organizar e compartilhar meus projetos desenvolvidos
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV0ZWdhdXF5eW5taXhwenVpcnNoNG05c20xN2thY2RjNTFwN2ZtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp)
